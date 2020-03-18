@@ -1,2 +1,1 @@
-include ':app'
-rootProject.name='XRouter'
+include ':app', ':xrouter', ':xrouter-annotation', ':xrouter-compiler'
